@@ -1,0 +1,16 @@
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+#copy{
+    bottom: 0;
+    line-height: 2;
+    position: fixed;
+    background-color: palevioletred;
+    width: 100%;
+    color: springgreen;
+}
